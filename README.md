@@ -19,4 +19,4 @@ A front-end clone of the popular e-commerce website **Myntra**, built using **HT
 * CSS3
 * Flexbox & Grid
 
-## 📁 Folder Structure
+
